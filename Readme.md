@@ -51,6 +51,8 @@ This is a production-ready, AI-powered customer support chatbot built using **n8
 
 ---
 
+<div align="center">
+ 
 ## 🏗️ Architecture
 
 ### System Flow Diagram
@@ -99,7 +101,7 @@ This is a production-ready, AI-powered customer support chatbot built using **n8
 │          Telegram Reply / Ticket Creation / Logging            │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
+</div>
 ---
 
 ## 📋 Prerequisites
