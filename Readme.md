@@ -25,6 +25,16 @@ This is a production-ready, AI-powered customer support chatbot built using **n8
 
 ---
 
+## 🎞️ Images
+<div align="center">
+<img width="1903" height="941" alt="a4" src="https://github.com/user-attachments/assets/e080962d-4dfe-4eec-a61f-d4667700bcb7" />
+<img width="1906" height="976" alt="A1 3" src="https://github.com/user-attachments/assets/3edfc8b5-2fdb-4c01-a129-061c9f4bfe62" />
+<img width="1848" height="756" alt="A2" src="https://github.com/user-attachments/assets/fb5215f4-2c80-413e-9eea-7ed12be3b2ba" />
+<img width="1690" height="440" alt="Ai 1" src="https://github.com/user-attachments/assets/22237b0e-7591-4e02-8d60-956e618b69d4" />
+</div>
+
+---
+
 ## ✨ Key Features
 
 ### 🤖 Intelligent Classification
