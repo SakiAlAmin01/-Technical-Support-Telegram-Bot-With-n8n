@@ -159,8 +159,6 @@ Access n8n at: `http://localhost:5678`
 4. Choose a username (must end with `bot`)
 5. Save the **API Token** provided by BotFather
 
-![BotFather Setup](images/telegram_botfather.png)
-
 ---
 
 ### Step 3: Set Up Google Sheets Database
