@@ -530,9 +530,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/chatbot/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/chatbot/issues)
-- **Community**: [Discord Server](https://discord.gg/yourchannel)
+- **Email**: [Gmail](sakialamin2005@gmail.com)
 
 ---
 
